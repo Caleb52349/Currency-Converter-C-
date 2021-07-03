@@ -12,3 +12,7 @@ The Currency Converter  app is a simple, fast, and efficient way of converting c
 
 ## Motivation
 As an international student at Vistula University(Warsaw) , I have always had the urge to convert from zlote  to my local currencyand not worry about any conversion rates, etc. Currency Converter is just the app I wanted -  my first C#  Winform Project
+
+
+## ScreenShots of Application
+<img src = "CurrencyConverter/Images/1.png"> <img src = "CurrencyConverter/Images/2.png">
